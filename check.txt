@@ -1,3 +1,4 @@
+
 央视,#genre#
 
 CCTV1,http://live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -324,6 +325,7 @@ CGTN俄语,http://8.218.49.207:9999/ysp.php?id=cgtnr
 西藏卫视,http://49.235.110.121:9090/daili/小果.php?id=xzwsH264_2000&Cf.m3u8
 宁夏卫视,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/nxws8m/8000000/mnf.m3u8
 宁夏卫视,http://cfss.cc/api/ysp/nxws.m3u8
+陕西卫视,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel55/index.m3u8
 青海卫视,http://cfss.cc/api/ysp/qhws.m3u8
 青海卫视,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/qhws8m/8000000/mnf.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
@@ -332,6 +334,8 @@ CGTN俄语,http://8.218.49.207:9999/ysp.php?id=cgtnr
 三沙卫视,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/sswshd8m/8000000/mnf.m3u8
 新疆卫视,https://live.metshop.top/msp.php?id=xjws
 新疆卫视,http://8.218.49.207:9999/ysp.php?id=xjws
+内蒙古卫视,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel93/index.m3u8
+内蒙古卫视,http://222.175.159.226:808/hls/202366/index.m3u8
 
 爱尚/电信,#genre#
 
