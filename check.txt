@@ -1,5 +1,4 @@
 央视,#genre#
-CCTV1,http://live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV1综合高清,http://121.19.134.21:808/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经高清,http://121.19.134.21:808/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺高清,http://121.19.134.21:808/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -20,7 +19,6 @@ CCTV17农业农村高清,http://121.19.134.21:808/tsfile/live/0017_1.m3u8?key=tx
 CCTV5+体育赛视高清,http://121.19.134.21:808/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 卫视,#genre#
 
-CCTV1,http://live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 河北卫视高清,http://121.19.134.21:808/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 河北经济生活高清,http://121.19.134.21:808/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 河北都市高清,http://121.19.134.21:808/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
