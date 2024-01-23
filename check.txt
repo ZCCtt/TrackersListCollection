@@ -4,6 +4,7 @@ CCTV-2财经,http://jscbn.hw-cdn.gitv.tv/gitv_escape/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u
 CCTV-3综艺,http://jscbn.hw-cdn.gitv.tv/gitv_escape/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8
 CCTV-4中文国际,http://jscbn.hw-cdn.gitv.tv/gitv_escape/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8
 CCTV-5体育,http://jscbn.hw-cdn.gitv.tv/gitv_escape/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8
+CCTV-5+体育赛事,http://221.226.4.10:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+体育赛事,http://jscbn.hw-cdn.gitv.tv/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
 CCTV-6电影,http://jscbn.hw-cdn.gitv.tv/gitv_escape/G_CCTV-6-HQ/G_CCTV-6-HQ.m3u8
 CCTV-7国防军事,http://jscbn.hw-cdn.gitv.tv/gitv_escape/G_CCTV-7-HQ/G_CCTV-7-HQ.m3u8
