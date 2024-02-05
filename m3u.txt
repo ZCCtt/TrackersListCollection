@@ -314,6 +314,6 @@ Unknown_723,https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a7
 电视剧2, http://diyp.112114.xyz/douyu/5635000
 电视剧3, http://diyp.112114.xyz/douyu/7459925
 电视剧4, http://diyp.112114.xyz/douyu/7489563
-电视剧4, http://epg.112114.xyz/douyu/2838296
+电视剧5, http://epg.112114.xyz/douyu/2838296
 
 
