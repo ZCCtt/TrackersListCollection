@@ -293,21 +293,21 @@ Unknown_719,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 Unknown_722,http://de1se01.v2beat.live/chunks.m3u8
 Unknown_723,https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 轮播,#genre#
-小品, http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-小品2, http://epg.112114.xyz/douyu/3980787
+小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+小品2,http://epg.112114.xyz/douyu/3980787
 
-斗鱼4k, http://epg.112114.xyz/douyu/9249162
-经典电影, http://110.72.103.69:808/hls/220/index.m3u8
-经典电影2 http://epg.112114.xyz/douyu/74374
-电影, http://epg.112114.xyz/douyu/4332
-电影2, http://epg.112114.xyz/douyu/4246519
-电影3, http://epg.112114.xyz/douyu/7655471
-电影4, http://epg.112114.xyz/douyu/9651304
-电影5, http://epg.112114.xyz/douyu/2935323
-电影6, http://epg.112114.xyz/douyu/1165374
-电影7, http://epg.112114.xyz/douyu/2516864
-电影9, http://epg.112114.xyz/douyu/9292492
-电影10, http://epg.112114.xyz/douyu/1226741
+斗鱼4k,http://epg.112114.xyz/douyu/9249162
+经典电影,http://110.72.103.69:808/hls/220/index.m3u8
+经典电影2,http://epg.112114.xyz/douyu/74374
+电影,http://epg.112114.xyz/douyu/4332
+电影2,http://epg.112114.xyz/douyu/4246519
+电影3,http://epg.112114.xyz/douyu/7655471
+电影4,http://epg.112114.xyz/douyu/9651304
+电影5,http://epg.112114.xyz/douyu/2935323
+电影6,http://epg.112114.xyz/douyu/1165374
+电影7,http://epg.112114.xyz/douyu/2516864
+电影9,http://epg.112114.xyz/douyu/9292492
+电影10,http://epg.112114.xyz/douyu/1226741
 
 
 电视剧,http://epg.112114.xyz/douyu/338759
