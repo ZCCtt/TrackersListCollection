@@ -310,12 +310,12 @@ Unknown_723,https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a7
 电影10, http://epg.112114.xyz/douyu/1226741
 
 
-电视剧, http://epg.112114.xyz/douyu/338759
-电视剧2, http://diyp.112114.xyz/douyu/5635000
-电视剧3, http://diyp.112114.xyz/douyu/7459925
-电视剧4, http://diyp.112114.xyz/douyu/7489563
-电视剧5, http://epg.112114.xyz/douyu/2838296
-电视剧6，https://epg.pw/stream/d7b88b4ecb223d0b485bfaec81c116375ea95f54fdff34e37daa839750f7053c.m3u8
+电视剧,http://epg.112114.xyz/douyu/338759
+电视剧2,http://diyp.112114.xyz/douyu/5635000
+电视剧3,http://diyp.112114.xyz/douyu/7459925
+电视剧4,http://diyp.112114.xyz/douyu/7489563
+电视剧5,http://epg.112114.xyz/douyu/2838296
+电视剧6,https://epg.pw/stream/d7b88b4ecb223d0b485bfaec81c116375ea95f54fdff34e37daa839750f7053c.m3u8
 电视剧7,https://epg.pw/stream/0c00323eb163f3113f97943214a7bfac5f63d3decba66b3781fef68745e16625.ctv
 电视剧8,https://epg.pw/stream/44f4815a441be86a847cf294a7434a50bade86f62490dd7436c0d2fbc2e63d60.ctv
 笑傲江湖,https://epg.pw/stream/98015a4f5c402ed16401d0a080cf00a88f2c9845dae8a0495573e96e9abb4169.ctv
